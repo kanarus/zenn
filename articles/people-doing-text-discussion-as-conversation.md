@@ -17,7 +17,7 @@ https://zenn.dev/ichimia111/articles/6f74afd5688bca
 
 ( フェイクを入れようかとも思いましたが、どうせコメントした当人である筆者の[アカウントページ](https://zenn.dev/kanal) の [Comments](https://zenn.dev/kanal?tab=comments) を漁ればすぐ辿り着ける公開情報だし、別に相手の方を貶す内容でもない ( むしろ気づきのきっかけとして感謝する内容である ) ため、そのまま見せます。もしそれでも相手の方からやめてほしい等の要望があった場合は対応します。 )
 
-問題の場面を切り抜くと、
+問題の場面を切り抜くと ( Rust を知らない人も、それはこの記事の本質ではないのでなんとなくで読んでください ) 、
 
 ---
 
@@ -104,7 +104,7 @@ https://github.com/pretzelhammer/rust-blog/blob/master/posts/translations/jp/com
 
 ---
 
-となります ( Rust を知らない人も、それはこの記事の本質ではないのでなんとなくで読んでください ) 。
+となります。
 
 
 ## ( 初見時 ) 予想外ポイント
