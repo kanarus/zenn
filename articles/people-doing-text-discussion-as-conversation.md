@@ -223,7 +223,7 @@ https://github.com/pretzelhammer/rust-blog/blob/master/posts/translations/jp/com
 
 > 「揚げ足〜」のところでクドくて
 
-という形で登場しており、筆者のコメントの
+という形で登場しており、「補足」の
 
 > > 今回は変数宣言時のString vs &strに注目して執筆したつもりでした。
 > > &strは明示的に指定しない限り暗黙的にstatic扱いとなるため、.rodataに格納される認識です。
