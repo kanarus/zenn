@@ -640,7 +640,7 @@ https://github.com/ohkami-rs/ohkami-templates/tree/main/worker-openapi
 }
 ```
 
-ように npm script に仕込んでおいて、おもむろに
+のように npm script に仕込んでおいて、おもむろに
 
 ```sh
 npm run openapi
