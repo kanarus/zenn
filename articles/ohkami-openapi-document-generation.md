@@ -81,6 +81,8 @@ o.generate(openapi::OpenAPI {
 
 のように `Ohkami::generate` を呼ぶだけでメタデータを統合してファイルに吐けます。
 
+<br>
+
 その `Schema` ですが、自分で impl してもいいですし、この場合 derive で対応できます：
 
 ```diff:main.rs
@@ -197,6 +199,8 @@ o.generate(openapi::OpenAPI {
 }
 
 ```
+
+<br>
 
 さらに、使い回したい `User` は、derive の場合
 
@@ -330,6 +334,8 @@ o.generate(openapi::OpenAPI {
 }
 
 ```
+
+<br>
 
 それから、`#[openapi::operation]` で `operationId` を設定したり `summary`, `description`, 各レスポンスの `description` をカスタマイズできます。
 
