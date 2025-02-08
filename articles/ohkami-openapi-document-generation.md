@@ -3,7 +3,7 @@ title: "[Rust] Ohkami の OpenAPI ドキュメント生成アプローチ"
 emoji: "🐺"
 type: "tech"
 topics: ["Rust", "Ohkami", "OpenAPI"]
-published: false
+published: true
 ---
 
 https://github.com/ohkami-rs/ohkami
