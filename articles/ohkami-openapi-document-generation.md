@@ -640,7 +640,7 @@ https://github.com/ohkami-rs/ohkami-templates/tree/main/worker-openapi
 }
 ```
 
-のように npm script に仕込んでおいて、おもむろに
+のように npm script に仕込んでおいておもむろに
 
 ```sh
 npm run openapi
@@ -651,4 +651,4 @@ npm run openapi
 
 ## おわりに
 
-Rust の OpenAPI document generation といえば [utoipa](https://github.com/juhaku/utoipa) ですが、やたらマクロに頼ることになるのが気に食わず、Ohkami では Ohkami 専用に、内部実装まで食い込んだ highly integrated な機構を作りました。個人的にはユーザー体験が良く気に入っています。
+Rust の OpenAPI document generation といえば [utoipa](https://github.com/juhaku/utoipa) ですが、やたらマクロに頼ることになるのが気に食わず、Ohkami では Ohkami 専用に、内部実装まで踏み込んだ highly integrated な機構を作りました。個人的にはユーザー体験が良く気に入っています。
