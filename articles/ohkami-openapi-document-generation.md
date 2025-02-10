@@ -205,7 +205,6 @@ o.generate(openapi::OpenAPI {
 さらに、使い回したい `User` は、derive の場合
 
 ```diff:main.rs
-  #[derive(Serialize)]
   #[derive(Serialize, openapi::Schema)]
 + #[openapi(component)]
   struct User {
