@@ -378,6 +378,8 @@ async fn list_users() -> JSON<Vec<User>> {
 一応、同名の unit struct に `IntoHandler` を impl して `map_openapi_operation` というメソッドでメタデータを登録しているだけなので、手動でもそこまで面倒ではないです。
 
 :::details 手で書くと
+例えば
+
 ```rust
 use ohkami::handler::IntoHandler;
 
