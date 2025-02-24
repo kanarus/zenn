@@ -6,6 +6,18 @@ topics: ["rust", "cloudflareworkers", "ohkami"]
 published: true
 ---
 
+:::message
+
+2025-02-24 追記
+
+今や筆者自身も Ohkami もこの記事のときから相当進化しているので、情報が古くなっています。最新情報は
+
+https://github.com/ohkami-rs/ohkami
+
+をご覧ください ( この記事は当時の日記的な意味合いで残しておきます )
+
+:::
+
 ## 背景など
 
 HTTP の勉強も兼ねて [ohkami](https://github.com/kana-rus/ohkami) という Rust の web framework を作っていて、以前 yusukebe さんの
